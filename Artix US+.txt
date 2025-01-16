@@ -1,7 +1,15 @@
+Hi,
+
+The following devices may apply to your Artix design.
+
+Artix 7 FPGA Evaluation Kit
+https://www.xilinx.com/products/boards-and-kits/ek-a7-ac701-g.html
+
 MT25QL128ABA1EW9-0SIT
 MT40A512M16TB-062E IT:R TR
 S25FL128LAGNFV010
 TLE8366EVXUMA1
 AMP8DB6QF65
 AK5DAF1-156.2500T2
-Application: Artix US+
+
+Please let me know if you have any questions for me or my FAE.
