@@ -1,0 +1,13 @@
+Hi,
+
+The following devices may apply to your Spartan-7 design. Please let me know if you have any questions for me or my FAE.
+
+Spartan 7 SP701 FPGA Evaluation Kit
+https://www.xilinx.com/products/boards-and-kits/sp701.html
+
+MT41K128M16JT-107 AAT:K	
+IS43TR16128CL-125KBLI
+S25FL256SAGBHI300
+AMP8DB6QF65	
+ABLJO-100.000MHZ-T
+
