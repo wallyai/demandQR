@@ -1,3 +1,9 @@
+Hi,
+
+The following devices may apply to your robotics design.
+
+https://edit.wpgdadawant.com/uploads/news_file/blog/2022/7776/tech_files/sv-1667896782.pdf
+
 STSPIN32G4
 STDRIVE101
 STL110N10F7
@@ -5,4 +11,5 @@ TSV914AIPT
 ST1S40IDIR
 VL53L3CXV0DH/1
 ISM330DHCXTR
-Application: robotics
+
+Please let me know if you have any questions for me or my FAE.
