@@ -2,7 +2,7 @@ Hi,
 
 The following devices may apply to your robotics design.
 
-https://edit.wpgdadawant.com/uploads/news_file/blog/2022/7776/tech_files/sv-1667896782.pdf
+https://www.st.com/resource/en/brochure/solutions-for-robotics.pdf
 
 STSPIN32G4
 STDRIVE101
