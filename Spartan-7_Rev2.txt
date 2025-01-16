@@ -1,6 +1,6 @@
 Hi,
 
-The following devices may apply to your Spartan-7 design. Please let me know if you have any questions for me or my FAE.
+The following devices may apply to your Spartan-7 design.
 
 Spartan 7 SP701 FPGA Evaluation Kit
 https://www.xilinx.com/products/boards-and-kits/sp701.html
@@ -11,3 +11,4 @@ S25FL256SAGBHI300
 AMP8DB6QF65	
 ABLJO-100.000MHZ-T
 
+Please let me know if you have any questions for me or my FAE.
